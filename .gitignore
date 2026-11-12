@@ -1,0 +1,9 @@
+node_modules
+.env
+dist
+
+# Local backups
+/backups/
+*.backup
+*.backup.*
+*.conversation-backup
